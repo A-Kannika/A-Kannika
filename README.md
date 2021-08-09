@@ -7,7 +7,6 @@
 - <img src="https://user-images.githubusercontent.com/49578771/128770797-a5e6f85e-aa6a-487b-b101-27ab2640c383.png" width="20" height="20" /> I'm currently learning everything to gain my knowledge and abilities.  
 
 - 💬 Ask me about anything 😊
-- 📫 How to reach me: [Gmail](mailto:a.kannika80@gmail.com) and on [LinkedIn](https://www.linkedin.com/in/kannika-armstrong-b24b95136/)
 - 😄 Pronouns: She / Her
 - ⚡ Fun fact: Reading, Watching movies, and Petting my cat 😼
 
