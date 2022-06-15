@@ -21,14 +21,25 @@
 ### Skills:
 
 <img src="https://user-images.githubusercontent.com/49578771/128778976-d7567b0c-37c0-421d-9487-21cad688a7e7.png" width="60" height="60"/>&nbsp;&nbsp;&nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/97/Sqlite-square-icon.svg" width="60" height="60"/>&nbsp;&nbsp;&nbsp;
+<img src="https://user-images.githubusercontent.com/49578771/173856031-5b58fe11-ef57-4951-b0bd-e2f2994f9d0a.png" width="60" height="60"/>&nbsp;&nbsp;&nbsp;
+<img src="https://user-images.githubusercontent.com/49578771/173856400-7b19243c-43a0-4ad8-ba99-2cde767655ff.png" width="60" height="60"/>&nbsp;&nbsp;&nbsp;
 <img src="https://img.icons8.com/color/48/000000/python--v1.png" width="60" height="60"/>&nbsp;&nbsp;&nbsp;
-<img src="https://user-images.githubusercontent.com/49578771/128780082-23db032f-a366-43f1-98dd-3541e0c85188.png" width="50" height="60"/>&nbsp;&nbsp;&nbsp;
 <img src="https://user-images.githubusercontent.com/49578771/128780584-005301dd-4ddf-4496-80b6-aca657f1f18c.png" width="60" height="60"/>&nbsp;&nbsp;&nbsp;
+<img src="https://user-images.githubusercontent.com/49578771/128780082-23db032f-a366-43f1-98dd-3541e0c85188.png" width="50" height="60"/>&nbsp;&nbsp;&nbsp;
 <img src="https://user-images.githubusercontent.com/49578771/128781304-ff4ee2c4-c74a-4800-83ef-a2a62d1ac3bd.png" width="60" height="60"/>&nbsp;&nbsp;&nbsp;
 <img src="https://user-images.githubusercontent.com/49578771/128781406-93a2fdd5-585f-45a7-8790-56af0f037b4c.png" width="60" height="60"/>&nbsp;&nbsp;&nbsp;
-<img src="https://img.icons8.com/material-outlined/192/000000/github.png" width="60" height="60"/>&nbsp;&nbsp;&nbsp;
+<img src="https://user-images.githubusercontent.com/49578771/173857106-e8540c03-3120-4411-836f-e2f88526d428.png" width="60" height="60"/>&nbsp;&nbsp;&nbsp;
+<img src="https://user-images.githubusercontent.com/49578771/173857360-15e6c7e6-c1d1-4a4d-9c73-1930f8641f10.png" width="60" height="60"/>&nbsp;&nbsp;&nbsp;
+
+
+
+
 <img src="https://img.icons8.com/color/144/000000/intellij-idea.png" width="60" height="60"/>&nbsp;&nbsp;&nbsp;
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/97/Sqlite-square-icon.svg" width="60" height="60"/>&nbsp;&nbsp;&nbsp;
-<img src="https://img.icons8.com/color/144/000000/git.png" width="60" height="60"/>&nbsp;&nbsp;&nbsp;
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" width="60" height="60"/>&nbsp;&nbsp;&nbsp;
 <img src="https://cdn.icon-icons.com/icons2/1381/PNG/512/rstudio_94807.png" width="60" height="60"/>&nbsp;&nbsp;&nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" width="60" height="60"/>&nbsp;&nbsp;&nbsp;
+<img src="https://user-images.githubusercontent.com/49578771/173858386-89cb5b2f-f93b-43a4-900d-bc916fc3e4f8.png" width="60" height="60"/>&nbsp;&nbsp;&nbsp;
+<img src="https://img.icons8.com/color/144/000000/git.png" width="60" height="60"/>&nbsp;&nbsp;&nbsp;
+<img src="https://img.icons8.com/material-outlined/192/000000/github.png" width="60" height="60"/>&nbsp;&nbsp;&nbsp;
+<img src="https://user-images.githubusercontent.com/49578771/173858693-71253280-87fc-4f9e-9b80-b01f12fb1e15.png" width="60" height="60"/>&nbsp;&nbsp;&nbsp;
+
