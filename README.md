@@ -16,7 +16,6 @@
 [<img src="https://user-images.githubusercontent.com/49578771/128774913-a7e25c24-36a4-41a6-a215-b5abdfdd6c54.png" width="50" height="50" />](tel:+1-253-282-8828) &nbsp;&nbsp;&nbsp;
 [<img src="https://user-images.githubusercontent.com/49578771/128775165-c06c9693-6410-4b0c-9351-a02f2c06b29e.png" width="50" height="50" />](https://a-kannika.github.io/AKannika/) &nbsp;&nbsp;&nbsp;
 [<img src="https://user-images.githubusercontent.com/49578771/128775472-df4b9d6c-ece9-4b4e-a285-64e6adaef7df.png" width="50" height="50" />](https://www.linkedin.com/in/kannika-armstrong-b24b95136/)&nbsp;&nbsp;&nbsp;
-[<img src="https://user-images.githubusercontent.com/49578771/128778335-15fa0d8a-15d4-4561-bf8f-996fdcd5a7c6.png" width="50" height="50" />](https://www.facebook.com/kathy.jai/)
 
 ### Skills:
 
